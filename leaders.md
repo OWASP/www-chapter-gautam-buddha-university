@@ -1,4 +1,4 @@
 ### Leaders
-* [Gaurav Mishra](mailto:20bcs022@gbu.ac.in)
-* [Mudit Kumar](mailto:215ucm016@gbu.ac.in)
+* [Gaurav Mishra](mailto:gaurav.mishra@owasp.org)
+* [Mudit Kumar](mailto:mudit.kumar@owasp.org)
 * [Navaid Zafar Rizvi](mailto:navaid@gbu.ac.in)
